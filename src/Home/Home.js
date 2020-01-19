@@ -1,14 +1,20 @@
 import React from 'react';
+import HomeVideo from './HomeVideo.js';
+import Statistics from './Statistics';
+import Projects from './Projects';
+import Feedback from './Feedback.js';
+import Services from './Services.js';
+import Investor from './Investor.js'
 
 export default function Home(){
     return(
         <div>
-        <section class="banner-area relative" id="home">
+		<HomeVideo />		
+		
+        {/* <section class="banner-area relative" id="home">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
-					{/* <div class="row fullscreen d-flex align-items-center justify-content-center"> */}
 					<div class="row  d-flex align-items-center justify-content-center">
-						{/* <div class="banner-content col-lg-12 col-md-12"> */}
 						<div class="about-content col-lg-12">
 
 							<h6 class="text-uppercase" class="text-white">Don’t look further, here is the key</h6>
@@ -22,7 +28,15 @@ export default function Home(){
 						</div>												
 					</div>
 				</div>
-			</section>
+			</section> */}
+
+
+			<Services />
+			<Investor />
+			<Projects />
+			<Statistics />
+			<Feedback />
+
 			{/* <!-- End banner Area --> */}
 
       {/* <!-- Start cat Area --> */}

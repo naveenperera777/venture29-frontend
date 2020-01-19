@@ -3,7 +3,8 @@ import { BrowserRouter as Router, Switch, Route,Redirect } from "react-router-do
 import logo from './logo.svg';
 import './App.css';
 import Header from './Header.js';
-import Home from './Home.js';
+import Footer from './Footer.js';
+import Home from './Home/Home.js';
 import About from './About.js';
 import Service from './Service';
 function App() {
@@ -17,7 +18,7 @@ function App() {
      <Route exact path="/"  component={Home} />
      <Route path="/about"  component={About} />
      <Route path="/service"  component={Service} />
-
+     <Footer />
      </div>
      </Switch>   
 

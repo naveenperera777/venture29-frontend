@@ -6,8 +6,6 @@ import {
 	NavLink
   } from "react-router-dom";
   import { Route, Redirect } from "react-router";
-import About from "./About.js";
-import Home from "./Home.js"
   
 export default function header(){
     return(

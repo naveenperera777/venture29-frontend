@@ -43,6 +43,8 @@
   font-weight: 300;
 }
 
+
+
 ::-ms-input-placeholder {
   /* Microsoft Edge */
   color: #777777;
@@ -173,6 +175,113 @@ td, th {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
+
+ .vid{
+   position: relative;
+   width: 100%;
+   height: 90vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   overflow: hidden;
+ }
+
+ .vid h1 {
+   text-align: center;
+   /* font-size: 4rem; */
+   /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+   /* padding: 20px;
+   margin: 15px; */
+   z-index: 1;
+   color: #fff;
+   /* font-size: 48px;
+   font-weight: 600; */
+   /* opacity: ; */
+ }
+
+ .vid p {
+  /* text-align: center; */
+  color: #fff;
+  /* padding: 20px; */
+  /* margin: 15px; */
+  z-index: 1;
+  /* margin-bottom: 1em; */
+  /* word-wrap: break-word; */
+ }
+
+ .vid h6{
+   z-index: 1;
+ }
+
+ .vid-container{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+ }
+
+ .videos{
+  color: #fff;
+  z-index: 1;
+ }
+
+ .color-overlay{
+   position: absolute;
+   top: 0;
+   left: 0;
+    /* background-color: ; */
+ }
+
+ .intro-section {
+  position: relative; }
+  .intro-section > .container {
+    z-index: 10;
+    position: relative; }
+  .intro-section, .intro-section .container .row {
+    height: 100vh;
+    min-height: 900px; }
+  .intro-section:before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: fcba03;
+    border-bottom-right-radius: 0px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; }
+    @media (max-width: 991.98px) {
+      .intro-section:before {
+        width: 100%; } }
+  .intro-section:after {
+    content: "";
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1; }
+  .intro-section h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    color: #fff; }
+    @media (max-width: 991.98px) {
+      .intro-section h1 {
+        font-size: 2rem; } }
+  .intro-section .desc {
+    color: white;
+    font-size: 1.4rem;
+    max-width: 700px; }
+  .intro-section a {
+    color: #fff;
+    text-decoration: underline; }
+    .intro-section a:hover {
+      text-decoration: none; }
+  .intro-section .btn {
+    text-decoration: none; }
+
+
 .clear::before, .clear::after {
   content: " ";
   display: table;
