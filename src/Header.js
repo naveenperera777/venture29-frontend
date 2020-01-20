@@ -10,7 +10,7 @@ import {
 export default function header(){
     return(
         <div>
-               <header id="header" id="home">
+               <div id="header" id="home" class="header">
 		  		<div class="header-top">
 		  			<div class="container">
 				  		<div class="row">
@@ -55,7 +55,7 @@ export default function header(){
 					  {/* <Route path="/" exact component={Home} />	    */}
 			    	</div>
 			    </div>
-			  </header>
+			  </div>
 			  {/* <Route path="/about" component={About} />	    		 */}
 
         </div>

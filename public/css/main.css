@@ -2029,6 +2029,17 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+.header{
+  padding: 0px 0px 20px 0px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  transition: all 0.5s;
+  z-index: 997;
+  background: #fff !important;
+}
+
 @media (max-width: 588px) {
   .header-top .lnr {
     display: block;
@@ -2057,14 +2068,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header {
-  padding: 0px 0px 20px 0px;
+  /* padding: 0px 0px 20px 0px;
   position: fixed;
   left: 0;
   top: 0;
   right: 0;
   transition: all 0.5s;
   z-index: 997;
-  background: #fff !important;
+  background: #fff !important; */
 }
 
 #header.header-scrolled {
