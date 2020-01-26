@@ -176,6 +176,9 @@ td, th {
  *    `:before` to contain the top-margins of child elements.
  */
 
+ /* Modify CSS
+ ###################################################################################
+ */
  .vid{
    position: relative;
    width: 100%;
@@ -224,6 +227,26 @@ td, th {
   color: #fff;
   z-index: 1;
  }
+
+ .filters .btn {
+  border-color: transparent;
+  font-size: .8rem;
+  padding: 8px 20px;
+  margin: 5px;
+  background: rgba(52, 58, 64, 0.05);
+  color: #343a40; }
+  .filters .btn:hover {
+    border-color: transparent;
+    background: #007bff;
+    color: #fff; }
+  .filters .btn.active {
+    background: #007bff !important;
+    color: #fff;
+    border-color: #007bff !important; }
+
+ /* 
+ #########################################################################
+ */
 
  .color-overlay{
    position: absolute;

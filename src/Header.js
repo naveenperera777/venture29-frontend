@@ -38,9 +38,9 @@ export default function header(){
 				        <ul class="nav-menu">
 				          <li><Link to="/">Home</Link></li>
 				          <li><Link to="/about">About</Link></li>
-						  <li><Link to="/service">Service</Link></li>
+						  <li><Link to="/services">Services</Link></li>
 				          {/* <li><a href="services.html">Service</a></li> */}
-				          <li><a href="projects.html">Projects</a></li>
+				          <li><Link to="/projects">Projects</Link></li>
 				          <li class="menu-has-children"><a href="">Blog</a>
 				            <ul>
 				              <li><a href="blog-home.html">Blog Home</a></li>
