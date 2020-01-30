@@ -38,6 +38,7 @@ export default function ProjectsHome(){
         break;
       case "aerospace":
         return <Aerospace />
+        break;
       default:
         return <h1>No Projects Found!</h1>  
     }

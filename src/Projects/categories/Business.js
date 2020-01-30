@@ -1,11 +1,11 @@
 import React from 'react';
-import grabyt  from '../../images/grabyt.jpg';
+var img = require('../../Images/grabyt.jpg');
 
 export default function Agriculture(){
     return(
         <div>
              <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-          <div class="image image-2 order-2" style={{ backgroundImage: `url(${grabyt})` }} data-scrollax=" properties: { translateY: '-20%'}"></div>
+          {/* <div class="image image-2 order-2" style={{ backgroundImage: `url(${grabyt})` }} data-scrollax=" properties: { translateY: '-20%'}"></div> */}
             <div class="text order-1">
               <h4 class="subheading">Business & Consumer</h4>
               <h2 class="heading"><a href="portfolio.html">Grabyt</a></h2>

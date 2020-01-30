@@ -1,11 +1,11 @@
 import React from 'react';
-import pickk  from '../../images/pickk.jpeg';
+var img = require('../../Images/pickk.jpeg');
 
 export default function Aerospace(){
     return(
         <div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-          <div class="image image-2 order-2" style={{ backgroundImage: `url(${pickk})` }} data-scrollax=" properties: { translateY: '-20%'}"></div>
+          <div class="image image-2 order-2" style={{ backgroundImage: `url(${img})` }} data-scrollax=" properties: { translateY: '-20%'}"></div>
             <div class="text order-1">
               <h4 class="subheading">Social Networking</h4>
               <h2 class="heading"><a href="portfolio.html">Pickk</a></h2>
