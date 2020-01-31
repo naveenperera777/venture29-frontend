@@ -4,7 +4,7 @@ import './App.css';
 import Header from './Header.js';
 import Footer from './Footer.js';
 import Home from './Home/Home.js';
-import About from './About.js';
+import About from './About/Home';
 import Services from './Services/Home.js';
 import Projects from './Projects/Home.js'
 import AgriMode from './Projects/Brands/AgriMode/AgriMode.js';

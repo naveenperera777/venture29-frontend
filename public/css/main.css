@@ -338,6 +338,219 @@ td, th {
   @media (max-width: 767.98px) {
     .block-3 .image {
       height: 300px; } }
+
+/*
+OUR TEAM
+*/
+
+.artist_part {
+  padding: 130px 0px 200px;
+}
+
+@media (max-width: 575px) {
+  /* line 2, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part {
+    padding: 70px 0px 60px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 2, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part {
+    padding: 70px 0px 60px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 2, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part {
+    padding: 70px 0px 60px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 2, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part {
+    padding: 70px 0px 140px;
+  }
+}
+
+/* line 16, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item {
+  position: relative;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+@media (max-width: 575px) {
+  /* line 16, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item {
+    margin-bottom: 80px;
+  }
+  /* line 22, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item .single_blog_img img {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 16, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item {
+    margin-bottom: 80px;
+  }
+  /* line 30, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item .single_blog_img img {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 16, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item {
+    margin-bottom: 80px;
+  }
+}
+
+/* line 42, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item:hover .single_blog_text {
+  padding: 34px 15px 22px;
+}
+
+/* line 45, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item:hover .social_icon {
+  transform: scaleX(1);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+/* line 49, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item:hover .single_text {
+  box-shadow: 0px 15px 30px 0px rgba(48, 56, 59, 0.1);
+  bottom: -68px;
+}
+
+/* line 54, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item h3 {
+  margin-bottom: 12px !important;
+  font-size: 22px;
+  font-weight: 700;
+  color: floralwhite;
+}
+
+/* line 60, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item .social_icon {
+  margin-top: 25px;
+  transform: scaleX(0);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+@media (max-width: 575px) {
+  /* line 60, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item .social_icon {
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 60, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item .social_icon {
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 60, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item .social_icon {
+    margin-top: 15px;
+  }
+}
+
+/* line 76, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item .social_icon a {
+  border: 1px solid #e2e5e7;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  font-size: 12px;
+  display: inline-block;
+  color: #949798;
+  line-height: 30px;
+  margin: 0px 5px;
+}
+
+@media (max-width: 575px) {
+  /* line 76, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item .social_icon a {
+    margin: 0px 5px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 76, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_item .social_icon a {
+    margin: 0px 5px;
+  }
+}
+
+/* line 97, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_item .social_icon a:hover {
+  background-color: #f81c1c;
+  color: #fff !important;
+  border: 1px solid #f81c1c;
+}
+
+/* line 105, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_text {
+  position: absolute;
+  width: 85%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  bottom: -123px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+/* line 115, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+.artist_part .single_blog_text {
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  padding: 34px 15px 22px;
+  border: 0px solid transparent !important;
+  background-color: rgb(0, 0, 0);
+}
+
+@media (max-width: 575px) {
+  /* line 115, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_text {
+    padding: 22px 15px 22px !important;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 115, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_text {
+    padding: 22px 15px 22px !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 115, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_text {
+    padding: 22px 15px 22px !important;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 115, ../../01 cl html template/New folder/May 2019/173 Hipstyle Barber/Hipstyle Barber template/sass/_artist_part.scss */
+  .artist_part .single_blog_text {
+    padding: 22px 15px 22px !important;
+  }
+}
+
+
 /* 
     .ftco-section-featured { 
       margin-top: -250px; fce7f1
