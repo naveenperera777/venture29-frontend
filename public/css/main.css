@@ -474,7 +474,7 @@ OUR TEAM
   border-radius: 50%;
   font-size: 12px;
   display: inline-block;
-  color: #949798;
+  color: #fbfeff;
   line-height: 30px;
   margin: 0px 5px;
 }
@@ -550,6 +550,137 @@ OUR TEAM
   }
 }
 
+.s-services {
+  padding-top: 18rem;
+  padding-bottom: 18rem;
+  background-color: #151515;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url(../img/services-bg.jpg);
+  background-size: cover;
+  position: relative;
+  color: rgba(255, 255, 255, 0.5);
+}
+.s-services::before {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #151515;
+  opacity: .65;
+}
+
+.s-services h4 {
+  margin-top: 0;
+  color: #FFFFFF;
+}
+
+.s-services a {
+  color: #F26522;
+}
+
+.s-services a:hover,
+.s-services a:focus,
+.s-services a:active {
+  color: #FFFFFF;
+}
+.subhead {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 1.6rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+  letter-spacing: .25rem;
+  color: #F26522;
+  margin-top: 0;
+  margin-bottom: 3.6rem;
+  position: relative;
+}
+
+.subhead::before {
+  content: attr(data-num) ".";
+  padding-right: 72px;
+  font-weight: 700;
+}
+
+.subhead::after {
+  content: "";
+  display: block;
+  background-color: #F26522;
+  height: 1px;
+  margin-top: -1px;
+  width: 4.5rem;
+  position: absolute;
+  top: 50%;
+  left: 4rem;
+}
+
+.do-content {
+  margin-top: 1px;
+  padding: 120px 0px;
+  text-align: center;
+}
+
+.do-content h1 {
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.do-content a {
+  color: #fff;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.do-content .lnr {
+  margin: 0px 10px;
+  font-weight: 600;
+}
+
+.stripe {
+  background: url(../img/city.jpg) center;
+  background-size: cover;
+}
+
+/* .stripe {
+  background: url(../img/yacht.jpg) center;
+  background-size: cover;
+} */
+
+.stripe p{
+  color: #fff;
+}
+
+.stripe h1{
+  color: #fff;
+}
+
+.stripe-bg {
+  /* background-color: #000; */
+  opacity: .7;
+}
+
+
+.stripe-city {
+  background: url(../img/yacht.jpg) center;
+  background-size: cover;
+}
+
+.stripe-city p{
+  color: #fff;
+}
+
+.stripe-city h1{
+  color: #fff;
+}
+
+.stripe-city-bg {
+  /* background-color: #000; */
+  opacity: .7;
+}
 
 /* 
     .ftco-section-featured { 

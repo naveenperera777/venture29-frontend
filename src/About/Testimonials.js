@@ -2,8 +2,7 @@ import React from 'react';
 
 export default function Testimonials(){
     return(
-        <div>      
-           
+        <div>                          
            <section class="artist_part">
         <div class="container">
             <div class="row justify-content-center">
