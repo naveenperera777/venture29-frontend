@@ -24,7 +24,12 @@ export default function AgriMode(){
 								</a>
                     <div class="content-wrap">
 									<p>
-										MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									We have created AgriMODE platform to introduce the Blockchain to SMEs and
+Large scale Enterprises to trade Goods and Services. Our vision is to be the
+Alibaba of Agriculture by becoming the number 1 trading platform for
+everything Agriculture. Our platform is recognised by Departments of Rural
+developments and farming in over 5 Countries including Sri Lanka, Indian,
+Malaysia, Peru, UK and Thailand.
 									</p>
 
 									<p>
@@ -73,18 +78,16 @@ export default function AgriMode(){
 
 							<div class="single-widget protfolio-widget">
 								<img src="img/blog/user2.jpg" alt="" />
-								<a href="#"><h4>Brian King</h4></a>
+								<a href="#"><h4>Steve Jobs</h4></a>
 								<p>
-									MCSE boot camps have its supporters and
-									its detractors. Some people do not understand why you should have to spend money
-									on boot camp when you can get.
+									"Agriculture + Tech is the Future"
 								</p>
-								<ul>
+								{/* <ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
 									<li><a href="#"><i class="fa fa-behance"></i></a></li>
-								</ul>								
+								</ul>								 */}
 							</div>
                             </div>
                     </div>

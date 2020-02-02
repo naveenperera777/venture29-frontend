@@ -682,6 +682,16 @@ OUR TEAM
   opacity: .7;
 }
 
+.contact{
+  background: url(../img/contact.jpg) center;
+  background-size: cover;
+}
+
+.contact h2{
+  color: #f3cf06;
+}
+
+
 /* 
     .ftco-section-featured { 
       margin-top: -250px; fce7f1
@@ -3038,7 +3048,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .agrimode {
-  background: url(../img/agrimode_banner.png) center;
+  background: url(../img/field.jpg) center;
   background-size: cover;
 }
 
@@ -3395,6 +3405,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .overlay-bg {
   background-color: #000;
   opacity: .7;
+  /* height: 400px; */
 }
 
 .feedback-left {

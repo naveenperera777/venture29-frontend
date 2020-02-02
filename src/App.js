@@ -7,6 +7,7 @@ import Home from './Home/Home.js';
 import About from './About/Home';
 import Services from './Services/Home.js';
 import Projects from './Projects/Home.js'
+import ContactUs from './Contact/Home.js';
 import AgriMode from './Projects/Brands/AgriMode/AgriMode.js';
 function App() {
   
@@ -21,6 +22,7 @@ function App() {
      <Route path="/about"  component={About} />
      <Route path="/services"  component={Services} />
      <Route exact path="/projects"  component={Projects} />
+     <Route exact path="/contact"  component={ContactUs} />
      <Route path="/agrimode"  component={AgriMode} />
      <Footer />
       

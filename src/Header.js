@@ -24,7 +24,7 @@ export default function header(){
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
 				  				<a href="tel:+880 012 3654 896">+880 012 3654 896</a>
-				  				<a href="mailto:support@colorlib.com">mtjglobal@gmail.com</a>				
+				  				<a href="mtjglobal@gmail.com">mtjglobal@gmail.com</a>				
 				  			</div>
 				  		</div>			  					
 		  			</div>
@@ -43,14 +43,14 @@ export default function header(){
 						  <li><Link to="/services">Services</Link></li>
 				          {/* <li><a href="services.html">Service</a></li> */}
 				          <li><Link to="/projects">Projects</Link></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
+				          {/* <li class="menu-has-children"><a href="">Blog</a>
 				            <ul>
 				              <li><a href="blog-home.html">Blog Home</a></li>
 				              <li><a href="blog-single.html">Blog Single</a></li>
 				            </ul>
-				          </li>						          
-				          <li><a href="contact.html">Contact</a></li>
-			              <li><a href="elements.html">Elements</a></li>
+				          </li>						           */}
+						  <li><Link to="/contact">Contact</Link></li>
+			              {/* <li><a href="elements.html">Elements</a></li> */}
 				        </ul>
 						
 				      </nav>
