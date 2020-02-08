@@ -3077,6 +3077,26 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: url(../img/fetchyt-logo.jpeg) center;
   background-size: cover;
 }
+
+.airxoom{
+  background: url(../img/airxoom-logo.jpeg) center;
+  background-size: cover;
+}
+
+.united-cars{
+  background: url(../img/united-cover.jpeg) center;
+  background-size: cover;
+} 
+
+.eevolution{
+  background: url(../img/eevolution.jpeg) center;
+  background-size: cover;
+} 
+
+.seaeden{
+  background: url(../img/seaeden.jpeg) center;
+  background-size: cover;
+}
 @media (max-width: 767.98px) {
   .banner-area .fullscreen {
     height: 700px !important;

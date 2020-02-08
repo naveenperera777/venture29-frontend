@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import pickk  from '../../Images/pickk.jpeg';
+import pickk  from '../../Images/pickkThumbnail.jpeg';
 
 export default function Social(){
     return(

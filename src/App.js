@@ -1,5 +1,6 @@
 import React from 'react';
 import { HashRouter as Router, Switch, Route,Redirect } from "react-router-dom";
+import ScrollToTop from 'react-router-scroll-top';
 import './App.css';
 import Header from './Header.js';
 import Footer from './Footer.js';
@@ -14,8 +15,12 @@ import Ridoo from './Projects/Brands/Ridoo/Ridoo.js';
 import Grabyt from './Projects/Brands/Grabyt/grabyt.js';
 import VibeClubs from './Projects/Brands/Vibe/vibe-clubs.js';
 import Fetchyt from './Projects/Brands/Fetchyt/fetchyt.js';
-function App() {
-  
+import AirXoom from './Projects/Brands/AirXoom/AirXoom.js';
+import UnitedCars from './Projects/Brands/UnitedCars/united-cars.js';
+import Eevolution from './Projects/Brands/Eevolution/Eevolution.js';
+import Seaeden from './Projects/Brands/Seaeden/seaeden.js';
+
+function App() { 
 
   return (
     <Router>
@@ -23,7 +28,8 @@ function App() {
     <div className="App">
     
       <Header/>
-     <Route exact path="/"  component={Home} />
+      <ScrollToTop>
+      <Route exact path="/"  component={Home} />
      <Route path="/about"  component={About} />
      <Route path="/services"  component={Services} />
      <Route exact path="/projects"  component={Projects} />
@@ -34,9 +40,14 @@ function App() {
      <Route path="/projects/grabyt"  component={Grabyt} />
      <Route path="/projects/vibe-clubs"  component={VibeClubs} />
      <Route path="/projects/fetchyt"  component={Fetchyt} />
+     <Route path="/projects/airxoom"  component={AirXoom} />
+     <Route path="/projects/united-car-center"  component={UnitedCars} />
+     <Route path="/projects/eevolution"  component={Eevolution} />
+     <Route path="/projects/seaeden"  component={Seaeden} />
 
-     <Footer />
-      
+      </ScrollToTop>
+
+     <Footer />     
     
      </div>
      </Switch>   
