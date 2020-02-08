@@ -259,7 +259,8 @@ td, th {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
-  margin-left: -15px; }
+  margin-left: -15px;
+ }
 
   .no-gutters {
     margin-right: 0;
@@ -3057,6 +3058,25 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
 }
 
+.ridoo {
+  background: url(../img/ridoo-logo.jpg) center;
+  background-size: cover;
+}
+
+.grabyt{
+  background: url(../img/grabyt-logo.jpeg) center;
+  background-size: cover;
+}
+
+.vibe-clubs{
+  background: url(../img/vibe-cover.jpeg) center;
+  background-size: cover;
+}
+
+.fetchyt{
+  background: url(../img/fetchyt-logo.jpeg) center;
+  background-size: cover;
+}
 @media (max-width: 767.98px) {
   .banner-area .fullscreen {
     height: 700px !important;
@@ -3789,7 +3809,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .about-content {
   margin-top: 120px;
-  padding: 120px 0px;
+  padding: 160px 0px;
   text-align: center;
 }
 

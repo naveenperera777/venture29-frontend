@@ -5,6 +5,7 @@ import Agriculture from './categories/Agriculture.js';
 import Business from './categories/Business.js';
 import Social from './categories/Social';
 import Aerospace from './categories/Aerospace.js';
+import Hospitality from './categories/Hospitality.js';
 
 export default function ProjectsHome(){
   const [status, setStatus] = useState({"all":"active"})
@@ -25,6 +26,7 @@ export default function ProjectsHome(){
           <Business />
           <Aerospace />
           <Social />
+          <Hospitality />
           </div>          
         )
       case "business":
@@ -39,6 +41,8 @@ export default function ProjectsHome(){
       case "aerospace":
         return <Aerospace />
         break;
+      case "hospitality":
+        return <Hospitality />
       default:
         return <h1>No Projects Found!</h1>  
     }

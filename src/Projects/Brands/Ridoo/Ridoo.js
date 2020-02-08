@@ -1,34 +1,30 @@
 import React from 'react';
 import Banner from '../Banner.js';
 
-export default function AgriMode(){
+export default function Pickk(){
     return(
         <div>
-            <Banner heading="Agrimode" cssClass = "agrimode"/>
-       		<section class="blog-posts-area section-gap">
+            <Banner heading="Ridoo" cssClass = "ridoo"/>
+       	<section class="blog-posts-area section-gap">
 				<div class="container">
 					<div class="row">
                     <div class="col-lg-8 post-list blog-post-list">
                     <div class="single-post">
-                    <img class="img-fluid" src="img/blog/p1.jpg" alt="" />
-								{/* <ul class="tags">
-									<li><a href="#">Art</a></li>
-									<li><a href="#">Technology</a></li>
-									<li><a href="#">Fashion</a></li>
-								</ul> */}
+                    <img class="img-fluid" src="img/ridoo-logo.jpg" alt="" />
+			
 								<a href="#">
 									<h1>
-										AgriMode, The Alibaba for Agriculture!
+										Ridoo, Earn while you drive!
 									</h1>
 								</a>
-                    <div class="content-wrap">
+                                    <div class="content-wrap">
 									<p>
-									We have created AgriMODE platform to introduce the Blockchain to SMEs and
-									Large scale Enterprises to trade Goods and Services. Our vision is to be the
-									Alibaba of Agriculture by becoming the number 1 trading platform for
-									everything Agriculture. Our platform is recognised by Departments of Rural
-									developments and farming in over 5 Countries including Sri Lanka, Indian,
-									Malaysia, Peru, UK and Thailand.
+                                    Uber what? Forget the ride hailing apps that governs you after paying for a
+                                    service by giving you so many restrictions. Hello Ridoo! The ride hailing app
+                                    that’s governed by you! You tell the Ridoo Drivers where you want to go and you
+                                    can change your destination as many times as you want within the allocated time
+                                    and distance you booked the driver for. This allows you to wait for that friend
+                                    who is always late no matter what!
 									</p>
 
 									<p>
@@ -79,15 +75,9 @@ export default function AgriMode(){
 								<img src="img/blog/user2.jpg" alt="" />
 								<a href="#"><h4>Steve Jobs</h4></a>
 								<p>
-									"Agriculture + Tech is the Future"
+									"Drive & Earn"
 								</p>
-								{/* <ul>
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-									<li><a href="#"><i class="fa fa-behance"></i></a></li>
-								</ul>								 */}
-							</div>
+														</div>
                             </div>
                     </div>
 						

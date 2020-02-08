@@ -1,34 +1,27 @@
 import React from 'react';
 import Banner from '../Banner.js';
 
-export default function AgriMode(){
+export default function VibeClubs(){
     return(
         <div>
-            <Banner heading="Agrimode" cssClass = "agrimode"/>
-       		<section class="blog-posts-area section-gap">
+            <Banner heading="Fetchyt" cssClass = "fetchyt"/>
+       	<section class="blog-posts-area section-gap">
 				<div class="container">
 					<div class="row">
                     <div class="col-lg-8 post-list blog-post-list">
                     <div class="single-post">
-                    <img class="img-fluid" src="img/blog/p1.jpg" alt="" />
-								{/* <ul class="tags">
-									<li><a href="#">Art</a></li>
-									<li><a href="#">Technology</a></li>
-									<li><a href="#">Fashion</a></li>
-								</ul> */}
-								<a href="#">
+                    <img class="img-fluid" src="img/fetchyt-logo.jpeg" alt="" />		
+								
 									<h1>
-										AgriMode, The Alibaba for Agriculture!
+										Fetchyt, The social network for logistics
 									</h1>
-								</a>
-                    <div class="content-wrap">
+                                    <div class="content-wrap">
 									<p>
-									We have created AgriMODE platform to introduce the Blockchain to SMEs and
-									Large scale Enterprises to trade Goods and Services. Our vision is to be the
-									Alibaba of Agriculture by becoming the number 1 trading platform for
-									everything Agriculture. Our platform is recognised by Departments of Rural
-									developments and farming in over 5 Countries including Sri Lanka, Indian,
-									Malaysia, Peru, UK and Thailand.
+                                    World’s first social network for logistics. Users get paid to carry products and
+                                    documents en route to their work or any other location by collecting and
+                                    dropping items on the same day! The Fetchers can cover their travelling cost and
+                                    Customers can reduce costs of expensive delivery and also to become carbon
+                                    neutral.
 									</p>
 
 									<p>
@@ -79,15 +72,9 @@ export default function AgriMode(){
 								<img src="img/blog/user2.jpg" alt="" />
 								<a href="#"><h4>Steve Jobs</h4></a>
 								<p>
-									"Agriculture + Tech is the Future"
+									"Get anything to you fast"
 								</p>
-								{/* <ul>
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-									<li><a href="#"><i class="fa fa-behance"></i></a></li>
-								</ul>								 */}
-							</div>
+														</div>
                             </div>
                     </div>
 						
