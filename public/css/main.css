@@ -285,6 +285,24 @@ td, th {
   letter-spacing: 2px;
 }
 
+.social-connect {
+  font-size: 12px;
+  padding: 8px;
+  display: inline;
+
+  /* background-color: #222222; */
+}
+
+.social-connect ul li {
+  display: inline-block;
+  margin-right: 30px;
+  color: #fab700;
+}
+
+/* .header-top .header-top-left a:hover i {
+  
+} */
+
 @media (min-width: 768px) {
   .block-3 {
     margin-bottom: 7em; } }
@@ -340,6 +358,23 @@ td, th {
     .block-3 .image {
       height: 300px; } }
 
+.site-section {
+  padding: 2.5em 0; }
+  @media (min-width: 768px) {
+    .site-section {
+      padding: 5em 0; } }
+  .site-section.site-section-sm {
+    padding: 4em 0; }
+
+.site-section-heading {
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  position: relative;
+  font-size: 2.5rem; }
+  @media (min-width: 768px) {
+    .site-section-heading {
+      font-size: 3rem; } }
+      
 /*
 OUR TEAM
 */
