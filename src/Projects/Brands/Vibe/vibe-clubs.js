@@ -68,9 +68,9 @@ export default function VibeClubs(){
 
 							<div class="single-widget protfolio-widget">
 								<img src="img/blog/user2.jpg" alt="" />
-								<a href="#"><h4>Steve Jobs</h4></a>
+								<a href="#"><h4>Jason Fleek</h4></a>
 								<p>
-									"Play hard, Party Harder"
+									"World needs entertainment so is one club too many? Don’t think so!"
 								</p>
 														</div>
                             </div>

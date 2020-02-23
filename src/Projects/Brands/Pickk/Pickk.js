@@ -67,14 +67,14 @@ export default function Pickk(){
 
                         <div class="col-lg-4 sidebar">
 							<div class="single-widget search-widget">
-								<h6>#Agriculture #Supply Chain #Business #Innovation #Blockchain</h6>						
+								<h4>Investor Testimonial</h4>						
 							</div>
 
 							<div class="single-widget protfolio-widget">
 								<img src="img/blog/user2.jpg" alt="" />
-								<a href="#"><h4>Steve Jobs</h4></a>
+								<a href="#"><h4>Mark Willson</h4></a>
 								<p>
-									"Business + Dating is the Future"
+									"Trying to compete in a already crowded market might sounds very risky and quiet frankly stupid. But once I got know the concept I really thought this is actually more than what meets the eye. Pickk is very much for Professionals who are keen to break the stereotypes of online dating making it more fun and interactive without really having to step out of your comfort zone”.
 								</p>
 														</div>
                             </div>

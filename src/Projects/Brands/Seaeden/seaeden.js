@@ -71,9 +71,9 @@ export default function Seaeden(){
 
 							<div class="single-widget protfolio-widget">
 								<img src="img/blog/user2.jpg" alt="" />
-								<a href="#"><h4>Steve Jobs</h4></a>
+								<a href="#"><h4>Adam Chu</h4></a>
 								<p>
-									"Enjoy the freedom"
+									"Glamping is the future of tourism, why bother 5 Star when you can get Million Stars under the sky. With a drive towards eco friendly resorts, I believe this is the ideal solution without having to compromise on the luxuries tourist would expect from being in a 5 star hotel"
 								</p>
 														</div>
                             </div>

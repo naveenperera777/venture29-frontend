@@ -9,9 +9,9 @@ export default function Home(){
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="do-content col-lg-12">
                             <h2 class="text-white">
-                            Have an idea or an epic project in mind?  <br></br>Talk to us. Let’s work together and make something great. Drop us a line at
+                            Have an idea or an epic project in mind?  <br></br>Talk to us. Let’s work together and make something great.
 							</h2>	
-							<h2>mtjglobal@gmail.com</h2>                          
+							{/* <h2>mtjglobal@gmail.com</h2>                           */}
                             <div class="social-connect col-lg-6 col-sm-6 col-4 ">
 				  				<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>

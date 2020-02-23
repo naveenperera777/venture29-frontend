@@ -69,9 +69,9 @@ export default function Pickk(){
 
 							<div class="single-widget protfolio-widget">
 								<img src="img/blog/user2.jpg" alt="" />
-								<a href="#"><h4>Steve Jobs</h4></a>
+								<a href="#"><h4>David Campbell (Investor)</h4></a>
 								<p>
-									"Grab and Save"
+									"This product is a very attractive investment proposition for me because it has all the elements of what price sensitive consumers are looking for, as a father of two university students I see how this type of platform can help Students to enjoy their spare time without having to splash out"
 								</p>
 														</div>
                             </div>
