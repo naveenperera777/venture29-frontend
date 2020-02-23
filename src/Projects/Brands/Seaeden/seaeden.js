@@ -30,7 +30,7 @@ export default function Seaeden(){
 									</p>
 
 									<blockquote class="generic-blockquote">
-										“Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government.banking” 
+										“Glamping is the future of tourism, why bother 5 Star when you can get Million Stars under the sky. With a drive towards eco friendly resorts, I believe this is the ideal solution without having to compromise on the luxuries tourist would expect from being in a 5 star hotel” 
 									</blockquote>
 									
 									<p>

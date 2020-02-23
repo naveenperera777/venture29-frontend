@@ -25,7 +25,7 @@ export default function VibeClubs(){
 									</p>
 
 									<blockquote class="generic-blockquote">
-										“Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government.banking” 
+										“In mordern day life having a suitable mode of transport is essential, I believe United Car Centre in Sri lanka is a perfect way to purchase cars for the locals as we give them a turnkey method of getting their vehicle imported without having put up with any of the nonsense car buyers have to go through these days” - Rajasinghe Bandara
 									</blockquote>
 									
 									<p>
@@ -66,7 +66,7 @@ export default function VibeClubs(){
 
 							<div class="single-widget protfolio-widget">
 								<img src="img/blog/user2.jpg" alt="" />
-								<a href="#"><h4> Rajasinghe Bandara</h4></a>
+								<a href="#"><h4>Rajasinghe Bandara</h4></a>
 								<p>
 									"In mordern day life having a suitable mode of transport is essential, I believe United Car Centre in Sri lanka is a perfect way to purchase cars for the locals as we give them a turnkey method of getting their vehicle imported without having put up with any of the nonsense car buyers have to go through these days"
 								</p>

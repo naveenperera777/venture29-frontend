@@ -28,7 +28,7 @@ export default function Pickk(){
 									</p>
 
 									<blockquote class="generic-blockquote">
-										“Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government.banking” 
+										“This product is a very attractive investment proposition for me because it has all the elements of what price sensitive consumers are looking for, as a father of two university students I see how this type of platform can help Students to enjoy their spare time without having to splash out” - David Campbell
 									</blockquote>
 									
 									<p>

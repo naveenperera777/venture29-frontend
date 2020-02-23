@@ -27,7 +27,7 @@ export default function VibeClubs(){
 									</p>
 
 									<blockquote class="generic-blockquote">
-										“Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government.banking” 
+										“World needs entertainment so is one club too many? Don’t think so!” - Jason Fleek
 									</blockquote>
 									
 									<p>

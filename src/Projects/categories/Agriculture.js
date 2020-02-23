@@ -11,7 +11,7 @@ export default function Agriculture(){
               <h4 class="subheading">Agriculture</h4>
               <h2 class="heading">AgriMode</h2>
               <p>The all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              <Link to="/agrimode"><button class="btn btn-primary px-4">View Portfolio</button></Link>              
+              <Link to="/projects/agrimode"><button class="btn btn-primary px-4">View Portfolio</button></Link>              
             </div>
           </div>
         </div>

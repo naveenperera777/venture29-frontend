@@ -31,7 +31,7 @@ export default function Pickk(){
 									</p>
 
 									<blockquote class="generic-blockquote">
-										“Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government.banking” 
+										“Trying to compete in a already crowded market might sounds very risky and quiet frankly stupid. But once I got know the concept I really thought this is actually more than what meets the eye. Pickk is very much for Professionals who are keen to break the stereotypes of online dating making it more fun and interactive without really having to step out of your comfort zone” - Mark Willson
 									</blockquote>
 									
 									<p>
