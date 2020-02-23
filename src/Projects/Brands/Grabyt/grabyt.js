@@ -10,7 +10,7 @@ export default function Pickk(){
 					<div class="row">
                     <div class="col-lg-8 post-list blog-post-list">
                     <div class="single-post">
-                    <img class="img-fluid" src="img/grabyt-logo.jpeg" alt="" />
+                    <img class="img-fluid" src="img/grabyt-product.jpeg" alt="" />
 			
 								<a href="#">
 									<h1>

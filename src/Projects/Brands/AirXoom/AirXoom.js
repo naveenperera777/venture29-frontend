@@ -10,7 +10,7 @@ export default function VibeClubs(){
 					<div class="row">
                     <div class="col-lg-8 post-list blog-post-list">
                     <div class="single-post">
-                    <img class="img-fluid" src="img/airxoom-logo.jpeg" alt="" />		
+                    <img class="img-fluid" src="img/airxoom-product-image.jpeg" alt="" />		
 								
 									<h1>
 										AirXoom, The Logistics .... 

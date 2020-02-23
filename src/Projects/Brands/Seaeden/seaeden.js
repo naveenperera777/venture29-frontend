@@ -10,10 +10,10 @@ export default function Seaeden(){
 					<div class="row">
                     <div class="col-lg-8 post-list blog-post-list">
                     <div class="single-post">
-                    <img class="img-fluid" src="img/seaeden.jpeg" alt="" />		
+                    <img class="img-fluid" src="img/seaeden-product-image.jpeg" alt="" />		
 								
 									<h1>
-										Vibe Clubs, Feel the Vibe
+										Seaeden, Glamping
 									</h1>
                                     <div class="content-wrap">
 									<p>

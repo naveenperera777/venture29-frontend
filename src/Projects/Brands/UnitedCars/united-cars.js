@@ -10,7 +10,7 @@ export default function VibeClubs(){
 					<div class="row">
                     <div class="col-lg-8 post-list blog-post-list">
                     <div class="single-post">
-                    <img class="img-fluid" src="img/united-thum.jpeg" alt="" />		
+                    <img class="img-fluid" src="img/imperialceylon-product-image.jpeg" alt="" />		
 								
 									<h1>
 										United Car Center, Driving is Believing
